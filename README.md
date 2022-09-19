@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://mohd-ikram.netlify.app/](https://mohd-ikram.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohd-ikram.netlify.app/](https://mohd-ikram.netlify.app/target="_blank")
 
 - 💬 Ask me about **java**
 
 - 📫 How to reach me **mdikram9205@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/14muZ0GJ2G6ngFC3vfRtYWgErUcvAxGQM/view](https://drive.google.com/file/d/14muZ0GJ2G6ngFC3vfRtYWgErUcvAxGQM/view)
+- 📄 Know about me [https://drive.google.com/file/d/14muZ0GJ2G6ngFC3vfRtYWgErUcvAxGQM/view](https://drive.google.com/file/d/14muZ0GJ2G6ngFC3vfRtYWgErUcvAxGQM/viewtarget="_blank")
 
 - ⚡ Fun fact **I am funny**
 
