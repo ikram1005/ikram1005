@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/back-end-developer-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-521.jpg?w=2000)
+
 <h1 align="center">Hi 👋, I'm Mohd Ikram</h1>
 <h3 align="center">A passionate Back-End developer from India,Looking forward to applying and enhancing my skills and knowledge as a developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/ce/2c/a9/ce2ca922671610b892b1347e094d4d6e.jpg">
