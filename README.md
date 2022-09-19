@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://mohd-ikram.netlify.app/](https://mohd-ikram.netlify.app/target="_blank")
+- 👨‍💻 All of my projects are available at [https://mohd-ikram.netlify.app/](https://ikram1005.github.io/viewtarget="_blank")
 
 - 💬 Ask me about **java**
 
