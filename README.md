@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://mohd-ikram.netlify.app/](https://ikram1005.github.io/)
+- 👨‍💻 All of my projects are available at [@ikram1005.github.io](https://ikram1005.github.io/)
 
 - 💬 Ask me about **java**
 
 - 📫 How to reach me **mdikram9205@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/14muZ0GJ2G6ngFC3vfRtYWgErUcvAxGQM/view](https://drive.google.com/file/d/14muZ0GJ2G6ngFC3vfRtYWgErUcvAxGQM/view)
+- 📄 Know about me [resume](https://drive.google.com/file/d/14muZ0GJ2G6ngFC3vfRtYWgErUcvAxGQM/view)
 
 - ⚡ Fun fact **I am funny**
 
