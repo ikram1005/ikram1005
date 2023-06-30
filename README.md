@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Mohd Ikram</h1>
-<h3 align="center">A passionate JAVA Back-End Developer, Looking forward to applying and enhancing my skills and knowledge as a developer. Skilled in HTML, Data Structure and Algorithms, Cascading Style Sheets, JavaScript. I'm highly proficient in Java. Looking to utilize and apply my Knowledge and skills to grow while fulfilling organizational goals..</h3>
+<h3 align="center">A passionate JAVA Back-End Developer, Looking forward to applying and enhancing my skills and knowledge as a developer. Skilled in HTML, Data Structure and Algorithms, Cascading Style Sheets, and JavaScript. I'm highly proficient in Java. Looking to utilize and apply my Knowledge and skills to grow while fulfilling organizational goals..</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/ce/2c/a9/ce2ca922671610b892b1347e094d4d6e.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikram1005&label=Profile%20views&color=0e75b6&style=flat" alt="ikram1005" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [@ikram1005.github.io](https://ikram1005.github.io/)
 
